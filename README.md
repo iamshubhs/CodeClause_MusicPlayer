@@ -1,1 +1,1 @@
-# odeClause_MusicPlayer
+It is a Music Player developed in Python using pyGame module.
